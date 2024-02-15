@@ -7,32 +7,32 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jannes Hühnerbein"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jannes Hühnerbein"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://janneshb.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "janneshb/janneshb.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Jannes Hühnerbein"
+  avatar           : "profile.jpeg"
   bio              : "Your biography for the left-hand sidebar"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Zurich, Switzerland"
+  orcid            : # "http://orcid.org/yourorcidurl"
   employer         :
-  email            :  
+  email            : "hjannes@ethz.ch"
   uri              :
 
   # Manuscript repositories
-  arxiv            : # "https://arxiv.org/" # Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
-  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  arxiv            :
+  googlescholar    :
+  impactstory      :
+  pubmed           :
+  researchgate     :
 
   # Social media
   bitbucket        :
@@ -41,22 +41,22 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : "janneshb"
   goodreads        :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
-  medium           : # "add medium profile url here"
+  linkedin         : "https://linkedin.com/in/jhuhnerbein"
+  kaggle           :
+  mastodon         :
+  medium           :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   wikipedia        :
