@@ -1,10 +1,10 @@
 ---
-title: "Diffusion Spline-Based Navigation Policy for Dynamic Environments"
+title: "Distributed Primal-Dual Saddle Point Optimization Applied to Elevator Group Control Systems"
 collection: projects
-permalink: /projects/2024-semester-project
+permalink: /projects/2021-advanced-topics-in-control
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2019-12-06
-paperurl: 'https://aris-space.ch/phoenix-2021'
+# paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
