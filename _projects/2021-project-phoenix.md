@@ -2,11 +2,7 @@
 title: "Project PHOENIX --- Guided Recovery of a Student Competition Rocket"
 collection: projects
 permalink: /projects/2021-project-phoenix
-# excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-# date: 2019-12-06
-paperurl: 'https://aris-space.ch/phoenix-2021'
-# citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Over the course of two semesters we worked together as a team of eight students to develop an autonomously guided parachute recovery system for a student competition rocket. The project took part in the student rocket association ARIS but also served as an intricate part of the final year of the mechanical engineering undergraduate program at ETH Zurich.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+More about the project on the [official ARIS website](https://aris-space.ch/phoenix-2021/).
