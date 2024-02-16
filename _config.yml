@@ -206,7 +206,7 @@ defaults:
   # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: posts
     values:
       layout: single
       author_profile: true
