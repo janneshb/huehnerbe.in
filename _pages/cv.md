@@ -12,4 +12,4 @@ redirect_from:
 </object>-->
 <iframe src="/files/CV_Jannes_Huehnerbein.pdf" width="400" height="500" style="width: 90%; max-height: 80vh !important;"></iframe>
 
-You can download a copy of my CV <a href="/files/CV_Jannes_Huehnerbein.pdf">here</a>.
+You can download a copy of my CV <a href="/files/CV_Jannes_Huehnerbein.pdf" target="_blank" rel="noopener noreferrer">here</a>.

@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the <a href="https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html">Robotics, Systems and Control</a> program at ETH Zurich graduating in September 2024. 
+I am a Master's student in the <a href="https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html" target="_blank" rel="noopener noreferrer">Robotics, Systems and Control</a> program at ETH Zurich graduating in September 2024. 
 
-During my Bachelor's studies in Mechanical Engineering at ETH Zurich, I participated in a year-long project at the Academic Space Initiative Switzerland (<a href="https://aris-space.ch">ARIS</a>) with the goal of developing an autonomous guided recovery system  for a student competition rocket.
+During my Bachelor's studies in Mechanical Engineering at ETH Zurich, I participated in a year-long project at the Academic Space Initiative Switzerland (<a href="https://aris-space.ch" target="_blank" rel="noopener noreferrer">ARIS</a>) with the goal of developing an autonomous guided recovery system  for a student competition rocket.
 
-After completing my Bachelor's degree in 2021 I interned in <a href="https://flyzipline.com">Zipline's</a> Guidance, Navigation and Control department in South San Francisco, California for a year before returning to Zurich to take on my Master's studies.
+After completing my Bachelor's degree in 2021 I interned in <a href="https://flyzipline.com" target="_blank" rel="noopener noreferrer">Zipline's</a> Guidance, Navigation and Control department in South San Francisco, California for a year before returning to Zurich to take on my Master's studies.
 
 Throughout my studies at ETH Zurich, I supported various lectures as a teaching assistant both behind the scenes and in the class room.
 
