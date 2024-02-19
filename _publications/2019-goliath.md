@@ -12,3 +12,5 @@ In the second semester of the mechanical engineering Bachelor's program at ETH Z
 Over the course of one semester each group has to develop a fully functional mechanical system that solves a given task.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/onVxJGcwFZo?si=_Z6tXRLcWGVDSFoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+With Mathieu Dubied, Jan von Bassewitz, Hendrik van der Weide and Philipp Wand.
