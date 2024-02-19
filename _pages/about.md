@@ -15,4 +15,4 @@ After completing my Bachelor's degree in 2021 I interned in <a href="https://fly
 
 Throughout my studies at ETH Zurich, I supported various lectures as a teaching assistant both behind the scenes and in the class room.
 
-Feel free to get in touch via LinkedIn or email :-)
+Feel free to get in touch via LinkedIn or email <nobr>:-)</nobr>
