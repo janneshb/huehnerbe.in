@@ -3,7 +3,8 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -11,57 +12,65 @@ title                    : "Jannes Hühnerbein"
 title_separator          : "-"
 name                     : &name "Jannes Hühnerbein"
 description              : &description "personal description"
-url                      : https://huehnerbe.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://huehnerbe.in
+baseurl                  : ""
 repository               : "janneshb/huehnerbe.in"
 
-# Site Author
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  name             : "Jannes Hühnerbein"
+  # Biographic information
   avatar           : "profile.jpeg"
+  name             : "Jannes Hühnerbein"
+  pronouns         : # example: "she/her"  
   bio              : "Robotics Student @ ETHZ"
-  pronouns         : # example: "she/her"
   location         : "Zurich, Switzerland"
-  orcid            : # "http://orcid.org/yourorcidurl"
   employer         :
-  email            : "hjannes@ethz.ch"
   uri              :
+  email            : "hjannes@ethz.ch" 
 
-  # Manuscript repositories
+  # Academic websites
   arxiv            :
   googlescholar    :
   impactstory      :
+  orcid            :
   pubmed           :
   researchgate     :
 
-  # Social media
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  facebook         :
-  flickr           :
-  foursquare       :
+  # Repositories and software development
+  bitbucket        : # Username
+  codepen          : # Username
+  dribbble         : # Username
   github           : "janneshb"
-  goodreads        :
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
+  # Social media
+  bluesky          : # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
   linkedin         : "jhuehnerbein"
-  kaggle           :
-  mastodon         :
-  medium           :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          :
-  vine             :
-  weibo            :
-  wikipedia        :
-  xing             :
-  youtube          :
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Replace this with your X / Twitter handle
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
 
 
 # Site Settings
@@ -69,7 +78,7 @@ teaser                   :  # filename of teaser fallback teaser image placed in
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -189,13 +198,33 @@ kramdown:
 
 # Collections
 collections:
-  projects:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _pages
   - scope:
       path: ""
@@ -203,15 +232,41 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _projects
+  # _teaching
   - scope:
       path: ""
-      type: posts
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
@@ -224,7 +279,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

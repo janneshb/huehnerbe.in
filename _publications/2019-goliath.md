@@ -1,6 +1,8 @@
 ---
-title: "GOLIATH --- Winning Team of ETH Zurich's \"Innovation Project\""
-collection: projects
+title: "GOLIATH --- Winning Team of the \"Innovation Project\" at ETH Zurich"
+collection: publications
+paper: false
+layout: archive
 permalink: /projects/2019-goliath
 excerpt: 'As a team of five undergraduate students we won first place in a design competition at ETH Zurich known as the "Innovation Project". The competition is a regular part of the mechanical engineering program and takes place in the second semester.'
 ---
