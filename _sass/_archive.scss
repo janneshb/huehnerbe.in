@@ -90,6 +90,8 @@
    ========================================================================== */
 
 .list__item {
+  margin-bottom: 30px;
+
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
@@ -107,6 +109,38 @@
   }
 }
 
+/* Improved List View (teaser on the left) */
+.list__item > article {
+  .archive__item-teaser {
+    width: 29%;
+    height: 175px;
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+
+    img {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      /*
+      max-width: 100%;
+      max-height: 100%;
+      */
+    }
+  }
+
+  .archive__desc-wrapper {
+    max-width: calc(70% - 15px);
+    margin-left: 15px;
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .archive__item-title {
+    margin-top: 0;
+  }
+}
 
 /*
    Grid view
