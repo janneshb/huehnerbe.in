@@ -88,12 +88,12 @@
 /*
    List view
    ========================================================================== */
-.list__item:first-child {
+.list__item:first-of-type {
   margin-top: 30px;
 }
 
 .list__item {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
@@ -113,6 +113,9 @@
 }
 
 /* Improved List View (teaser on the left) */
+$small: 600px;
+$medium: 900px;
+
 .list__item > article {
   .archive__item-teaser {
     width: 29%;
@@ -126,10 +129,6 @@
       top: 50%;
       left: 50%;
       transform: translate(-50%, -50%);
-      /*
-      max-width: 100%;
-      max-height: 100%;
-      */
     }
   }
 
@@ -142,6 +141,24 @@
 
   .archive__item-title {
     margin-top: 0;
+  }
+
+  @media screen and (max-width: $small) {
+    .archive__item-teaser {
+      width: 100%;
+      height: 250px;
+      display: block;
+    }
+
+    .archive__desc-wrapper {
+      max-width: 100%;
+      margin-top: 15px;
+      margin-left: 0px;
+      display: block;
+    }
+  }
+  @media screen and (min-width: $medium) {
+    // not used
   }
 }
 
