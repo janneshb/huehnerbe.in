@@ -182,8 +182,16 @@ body:hover .visually-hidden button {
 /* social icons*/
 
 .social-icons {
+  li:last-child {
+    margin-bottom: 0;
+  }
+
   .fa {
     color: #000;
+  }
+
+  i {
+    padding-right: 1.5em;
   }
 
   .fa-behance,
