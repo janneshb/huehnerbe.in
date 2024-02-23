@@ -5,6 +5,8 @@ paper: false
 layout: archive
 permalink: /projects/2021-advanced-topics-in-control
 excerpt: 'We investigated the problem of elevator dispatching in large buildings by comparing different existing approaches to a custom distributed primal-dual saddle point optimization algorithm.'
+header:
+    teaser: /projects/2021-advanced-topics-in-control/atic-cover.jpg
 ---
 
 Abstract
