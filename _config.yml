@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpeg"
   name             : "Jannes Hühnerbein"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics Student @ ETHZ"
-  location         : "Zurich, Switzerland"
+  bio              : "Robotics Student @ ETHZ<br>Visiting Student @ Imperial"
+  location         : "London, UK"
   employer         :
   uri              :
   email            : "hjannes@ethz.ch" 
