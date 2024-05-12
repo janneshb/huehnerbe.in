@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jannes Hühnerbein"
 title_separator          : "-"
 name                     : &name "Jannes Hühnerbein"
-description              : &description "personal description"
+description              : &description "My personal website"
 url                      : https://huehnerbe.in
 baseurl                  : ""
 repository               : "janneshb/huehnerbe.in"
@@ -135,7 +135,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               : "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          : "G-VWSR7L8W1G"
 
