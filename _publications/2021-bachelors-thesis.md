@@ -16,4 +16,4 @@ With an increasing amount of vehicles featuring some degree of autonomy possible
 
 In this Bachelor thesis a centralized planning algorithm was developed that generates safe trajectories for multiple <a href="https://arxiv.org/abs/2209.12048" target="_blank" rel="noopener noreferrer">CRS</a> EmboRockETH agents. Then, this planner was cast into distributed form. Based on the distributed optimization problem decentralized planners were implemented using ALADIN and round-robin scheduling. Finally, the performance of all trajectory planners was evaluated and compared using various problem setups.
 
-This project served as my bachelor's thesis.
+This project served as my Bachelor's thesis.
