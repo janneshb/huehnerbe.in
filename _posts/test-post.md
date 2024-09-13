@@ -1,6 +1,6 @@
 ---
 title: "GOLIATH &mdash; Winning Team of the \"Innovation Project\" at ETH Zurich"
-collection: posts
+collection: blog
 paper: false
 layout: post
 permalink: /posts/test-post
