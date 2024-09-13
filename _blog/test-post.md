@@ -5,6 +5,7 @@ paper: false
 layout: single
 permalink: /posts/test-post
 excerpt: 'This is a test'
+share: false
 date: 2024-09-13
 ---
 
