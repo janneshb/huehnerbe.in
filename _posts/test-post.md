@@ -5,6 +5,7 @@ paper: false
 layout: post
 permalink: /posts/test-post
 excerpt: 'This is a test'
+date: 2024-09-13
 ---
 
 In the second semester of the mechanical engineering Bachelor's program at ETH Zurich students form groups and compete against each other in a hands-on challenge as part of the curriculum.
