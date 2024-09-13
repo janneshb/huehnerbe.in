@@ -231,9 +231,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: false
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
