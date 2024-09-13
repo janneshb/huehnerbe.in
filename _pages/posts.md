@@ -8,5 +8,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.posts reversed %}
-  {% include post-single.html type="list" %}
+  {% include archive-single.html type="list" %}
 {% endfor %}

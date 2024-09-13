@@ -1,6 +1,6 @@
 ---
 title: "Distributed Trajectory Planning for Multiple Autonomous Aerial Vehicles"
-collection: publications
+collection: projects
 paper: false
 layout: archive
 permalink: /projects/2021-bachelors-thesis

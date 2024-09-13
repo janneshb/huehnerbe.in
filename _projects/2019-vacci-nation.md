@@ -1,6 +1,6 @@
 ---
 title: "Vacci Nation &mdash; Modeling the Outbreak of an Influenza Strain in a Population with Different Belief Groups"
-collection: publications
+collection: projects
 paper: false
 layout: archive
 permalink: /projects/2019-vacci-nation

@@ -1,6 +1,6 @@
 ---
 title: "GOLIATH &mdash; Winning Team of the \"Innovation Project\" at ETH Zurich"
-collection: publications
+collection: projects
 paper: false
 layout: archive
 permalink: /projects/2019-goliath

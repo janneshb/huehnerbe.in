@@ -1,6 +1,6 @@
 ---
 title: "Distributed Primal-Dual Saddle Point Optimization Applied to Elevator Group Control Systems"
-collection: publications
+collection: projects
 paper: false
 layout: archive
 permalink: /projects/2021-advanced-topics-in-control
