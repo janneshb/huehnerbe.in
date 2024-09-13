@@ -2,7 +2,7 @@
 title: "GOLIATH &mdash; Winning Team of the \"Innovation Project\" at ETH Zurich"
 collection: blog
 paper: false
-layout: page
+layout: single
 permalink: /posts/test-post
 excerpt: 'This is a test'
 date: 2024-09-13
