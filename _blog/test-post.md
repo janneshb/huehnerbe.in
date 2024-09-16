@@ -1,9 +1,9 @@
 ---
-title: "GOLIATH &mdash; Winning Team of the \"Innovation Project\" at ETH Zurich"
+title: "TEE 2.0: A European High-Speed Rail Network"
 collection: blog
 paper: false
 layout: single
-permalink: /posts/test-post
+permalink: /posts/tee-2-european-high-speed-rail
 excerpt: 'This is a test'
 share: false
 date: 2024-09-13
