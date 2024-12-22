@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jannes Hühnerbein"
 title_separator          : "-"
 name                     : &name "Jannes Hühnerbein"
-description              : &description "My personal website"
+description              : &description "My personal and academic website"
 url                      : https://huehnerbe.in
 baseurl                  : ""
 repository               : "janneshb/huehnerbe.in"
@@ -24,11 +24,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Jannes Hühnerbein"
   pronouns         : # example: "she/her"  
-  bio              : "Robotics Student @ ETHZ<br>Visiting Student @ Imperial"
-  location         : "London, UK"
+  bio              : "Robotics, Systems and Control MSc ETH"
+  location         : "Somewhere 🌍"
   employer         :
   uri              :
-  email            : "hjannes@ethz.ch" 
+  email            : "hjannes@ethz.ch"
 
   # Academic websites
   arxiv            :
