@@ -6,7 +6,7 @@ layout: archive
 permalink: /projects/2024-masters-thesis
 excerpt: 'In this project, I present a novel, input-output data-driven approach to uncertainty model identification. This project served as my Master\'s thesis'
 header:
-    teaser: /projects/2024-uncertainty-model-unfalsificaion/simplesim-cover.jpg
+    teaser: /projects/2024-uncertainty-model-unfalsificaion/master-thesis-teaser-teaser.png
 ---
 
 Abstract
