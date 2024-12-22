@@ -4,14 +4,13 @@ collection: projects
 paper: false
 layout: archive
 permalink: /projects/2024-masters-thesis
-excerpt: 'In this project, I present a novel, input-output data-driven approach to uncertainty model identification. This project served as my Master\'s thesis'
+excerpt: "In this project, I present a novel, input-output data-driven approach to uncertainty model identification. This project served as the final project for my Master's degree at ETH Zurich."
 header:
-    teaser: /projects/2024-uncertainty-model-unfalsificaion/master-thesis-teaser-teaser.png
+    teaser: /projects/2024-uncertainty-model-unfalsificaion/master-thesis-teaser.png
 ---
 
 Abstract
 -------
-
 In this thesis, we present a novel, input-output data-driven approach to uncertainty model identification. As the true bounds and distributions of system uncertainties ultimately remain unknown, we depart from the goal of identifying the uncertainty model and instead look for minimal concrete statements that can be made based on an uncertain system model and available input-output data. We refer to this as unfalsifying an uncertainty model.
 
 Two different unfalsification approaches are taken. The optimistic approach determines the smallest uncertainties that could explain the given data, while the pessimistic approach finds the largest possible uncertainties. The pessimistic problem is revealed to be a semi-infinite program, which is solved using the local reduction algorithm. It is also shown that the optimistic and pessimistic approaches to uncertainty model unfalsification are mathematical duals.
