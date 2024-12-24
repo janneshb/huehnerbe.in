@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in the <a href="https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html" target="_blank" rel="noopener noreferrer">Robotics, Systems and Control</a> program at _ETH Zurich_ graduating in November 2024.
-Currently, I am working on my Master's thesis as a visiting student in the <a href="https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/" target="_blank" rel="noopener noreferrer">Control and Power (CAP) Research Group</a> at _Imperial College London_.
+I am a recent graduate from the Master's program <a href="https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html" target="_blank" rel="noopener noreferrer">Robotics, Systems and Control</a> at _ETH Zurich_. Most recently, I completed my Master's thesis as a visiting student in the <a href="https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/" target="_blank" rel="noopener noreferrer">Control and Power (CAP) Research Group</a> at _Imperial College London_ under supervision of Prof. Eric Kerrigan.
 
 During my Bachelor's studies in <a href="https://ethz.ch/en/studies/bachelor/bachelors-degree-programmes/engineering-sciences/mechanical-engineering.html" target="_blank" rel="noopener noreferrer">Mechanical Engineering</a> at ETH Zurich, I participated in a year-long project at the Academic Space Initiative Switzerland (<a href="https://aris-space.ch" target="_blank" rel="noopener noreferrer">ARIS</a>) with the goal of developing an autonomous guided recovery system for a student competition rocket.
 
