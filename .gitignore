@@ -6,3 +6,5 @@ Gemfile.lock
 
 # VSCode
 .vscode/
+.DS_Store
+

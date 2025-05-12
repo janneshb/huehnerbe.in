@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Jannes Hühnerbein"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he / him"
   bio              : "Robotics, Systems and Control MSc ETH"
   location         : "Somewhere 🌍"
   employer         :
   uri              :
-  email            : "hjannes@ethz.ch"
+  email            : "jannes@huhnerbein.de"
 
   # Academic websites
   arxiv            :
