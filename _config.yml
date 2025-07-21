@@ -24,17 +24,17 @@ author:
   avatar: "profile.jpeg"
   name: "Jannes Hühnerbein"
   pronouns: "he / him"
-  bio: "Robotics, Systems and Control MSc ETH<br>Incoming PhD Student @ Chair of Astrodynamics, TU Munich"
-  location: "Somewhere 🌍"
-  employer:
+  bio: "PhD Student @ TU Munich<br>Robotics, Systems and Control MSc ETH"
+  location: "Munich, Germany"
+  employer: "Chair of Astrodynamics"
   uri:
-  email: "jannes@huhnerbein.de"
+  email: "jannes.huehnerbein@tum.de"
 
   # Academic websites
   arxiv:
   googlescholar:
   impactstory:
-  orcid:
+  orcid: "https://orcid.org/0009-0005-8868-6610"
   pubmed:
   researchgate:
 
