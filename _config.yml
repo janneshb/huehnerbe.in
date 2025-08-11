@@ -24,17 +24,17 @@ author:
   avatar: "profile.jpeg"
   name: "Jannes Hühnerbein"
   pronouns: "he / him"
-  bio: "Scientific Assistant @ TU Munich<br>Robotics, Systems and Control MSc ETH"
-  location: "Munich, Germany"
+  bio: "Scientific Assistant<br>Robotics, Systems and Control MSc ETH"
+  location: "Technical University of Munich"
   employer: "Chair of Astrodynamics"
-  uri: "https://www.asg.ed.tum.de/en/coa/home/"
+  uri: # "https://www.asg.ed.tum.de/en/coa/home/"
   email: "jannes.huehnerbein@tum.de"
 
   # Academic websites
   arxiv:
   googlescholar:
   impactstory:
-  orcid: "https://orcid.org/0009-0005-8868-6610"
+  orcid: # "https://orcid.org/0009-0005-8868-6610"
   pubmed:
   researchgate:
 
