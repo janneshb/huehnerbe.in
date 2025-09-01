@@ -33,7 +33,7 @@ Our team won first place out of more than 500 participating students.
 </style>
 
 <div class="container">
-<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube.com/embed/onVxJGcwFZo?si=_Z6tXRLcWGVDSFoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="video"></iframe>
+<iframe style="position: absolute; top: 0; left: 0; right: 0; width: 100%; height: 100%; border: none;" src="https://www.youtube-nocookie.com/embed/onVxJGcwFZo?si=_Z6tXRLcWGVDSFoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="video"></iframe>
 </div>
 
 An official post by ETH Zurich about the "Innovationsprojekt" can be found <a href="https://ethz.ch/de/studium/bachelor/studienangebot/ingenieurwissenschaften/maschineningenieurwissenschaften/details/innovationsprojekt.html" target="_blank" rel="noopener noreferrer">here</a> (German).
