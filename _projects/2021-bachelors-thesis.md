@@ -1,5 +1,6 @@
 ---
 title: "Distributed Trajectory Planning for Multiple Autonomous Aerial Vehicles"
+date: 2021-08-05
 collection: projects
 paper: false
 layout: archive

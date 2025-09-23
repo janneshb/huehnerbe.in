@@ -1,6 +1,7 @@
 ---
 title: "Diffusion Spline-Based Navigation Policy in Dynamic Environments"
 collection: projects
+date: 2024-02-02
 paper: false
 layout: archive
 permalink: /projects/2024-semester-project

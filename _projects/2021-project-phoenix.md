@@ -1,6 +1,7 @@
 ---
 title: "Project PHOENIX &mdash; Guided Recovery of a Student Competition Rocket"
 collection: projects
+date: 2021-08-01
 paper: false
 layout: archive
 permalink: /projects/2021-project-phoenix

@@ -1,6 +1,7 @@
 ---
 title: "Uncertainty Model Unfalsification via Semi-Infinite Programming and Local Reduction"
 collection: projects
+date: 2024-11-11
 paper: false
 layout: archive
 permalink: /projects/2024-masters-thesis

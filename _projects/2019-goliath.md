@@ -1,5 +1,6 @@
 ---
 title: "GOLIATH &mdash; Winning Team of the \"Innovation Project\" at ETH Zurich"
+date: 2019-05-28
 collection: projects
 paper: false
 layout: archive

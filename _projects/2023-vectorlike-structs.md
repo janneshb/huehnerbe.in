@@ -1,6 +1,7 @@
 ---
 title: "VectorlikeStructs.jl"
 collection: projects
+date: 2024-10-01
 paper: false
 layout: archive
 permalink: /projects/VectorlikeStructs

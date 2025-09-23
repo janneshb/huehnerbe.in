@@ -1,12 +1,13 @@
 ---
 title: "TEE 2.0: A European High-Speed Rail Network"
+date: 2024-09-13
 collection: blog
 paper: false
 layout: single
 permalink: /posts/tee-2-european-high-speed-rail
 excerpt: 'This is a test'
 share: false
-date: 2024-09-13
+sitemap: false
 ---
 
 In the second semester of the mechanical engineering Bachelor's program at ETH Zurich students form groups and compete against each other in a hands-on challenge as part of the curriculum.

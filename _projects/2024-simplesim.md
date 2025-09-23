@@ -1,6 +1,7 @@
 ---
 title: "SimpleSim.jl"
 collection: projects
+date: 2024-11-01
 paper: false
 layout: archive
 permalink: /projects/SimpleSim
