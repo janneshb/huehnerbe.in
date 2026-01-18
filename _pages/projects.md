@@ -3,15 +3,14 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
-modified: 2025-09-23
 ---
 
 {% if site.author.googlescholar %}
-  You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}
 
 {% for post in site.projects reversed %}
-  {% include archive-single.html type="list" %}
+{% include archive-single.html type="list" %}
 {% endfor %}

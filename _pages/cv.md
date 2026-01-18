@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-modified: 2025-09-23
 ---
 
 <!--<object data="/files/CV_Jannes_Huehnerbein.pdf" type="application/pdf" height="500px" style="width: 90%; max-height: 80vh !important;">

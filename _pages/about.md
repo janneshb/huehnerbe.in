@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-modified: 2025-09-23
 ---
 
 My name is Jannes and I am a scientific assistant at the <a href="https://www.asg.ed.tum.de/en/coa/home/" target="_blank" rel="noopener noreferrer">Chair of Astrodynamics</a> lead by <a href="https://www.marcelloromano.info/" target="_blank" rel="noopener noreferrer">Prof. Marcello Romano</a> at the Technical University of Munich.
