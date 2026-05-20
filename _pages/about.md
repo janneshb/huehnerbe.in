@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Jannes and I am a scientific assistant at the <a href="https://www.asg.ed.tum.de/en/coa/home/" target="_blank" rel="noopener noreferrer">Chair of Astrodynamics</a> lead by <a href="https://www.marcelloromano.info/" target="_blank" rel="noopener noreferrer">Prof. Marcello Romano</a> at the Technical University of Munich.
+My name is Jannes and I am doctoral candidate and scientific assistant ("wissenschaftlicher Mitarbeiter") at the <a href="https://www.asg.ed.tum.de/en/coa/home/" target="_blank" rel="noopener noreferrer">Chair of Astrodynamics</a> lead by <a href="https://www.marcelloromano.info/" target="_blank" rel="noopener noreferrer">Prof. Marcello Romano</a> at the Technical University of Munich.
 
 In November 2024, I graduated from the Master's program <a href="https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/robotics-systems-and-control.html" target="_blank" rel="noopener noreferrer">Robotics, Systems and Control</a> at ETH Zurich.
 As a part of that degree program, I completed my semester thesis at the <a href="https://rsl.ethz.ch/" target="_blank"  rel="noopener noreferrer">Robotic Systems Lab</a> under supervision of <a href="https://jtorde.github.io/" target="_blank" rel="noopener noreferrer">Jesús Tordesillas Torres</a>.
