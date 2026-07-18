@@ -8,7 +8,7 @@ layout: archive
 permalink: /projects/SimpleSim
 excerpt: 'A minimalist Julia toolbox for modular dynamical systems simulation and for control systems design with support for continuous-time, discrete-time and realistic hybrid systems.'
 header:
-    teaser: /projects/2024-simplesim/simplesim-cover.jpg
+    teaser: /projects/2024-simplesim/simplesim.gif
 ---
 
 `SimpleSim.jl` is a minimalist Julia package for modular dynamical systems simulation and control systems design that I develop and maintain.

@@ -3,11 +3,11 @@
    ========================================================================== */
 
 .archive {
-  padding-right: 1em;
   margin-bottom: 2em;
 
   @include breakpoint($medium) {
     @include span(12 of 12);
+    padding-right: 1em;
   }
 
   @include breakpoint($large) {
