@@ -177,6 +177,11 @@
   min-width: 250px;
   background: $background-color;
 
+  /* keep the bar's height when all links are collapsed into the dropdown */
+  @media screen and (max-width: 600px) {
+    min-height: 2.5rem;
+  }
+
   a {
     display: block;
     margin: 0 1rem;

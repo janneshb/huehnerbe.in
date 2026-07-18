@@ -11,8 +11,20 @@ var $vlinks = $('#site-nav .visible-links');
 var $hlinks = $('#site-nav .hidden-links');
 
 var breaks = [];
+var mobileNav = window.matchMedia('(max-width: 600px)');
 
 function updateNav() {
+
+  // On mobile, all menu items live in the dropdown
+  if (mobileNav.matches) {
+    while ($vlinks.children().length > 0) {
+      breaks.push($vlinks.width());
+      $vlinks.children().last().prependTo($hlinks);
+    }
+    $btn.removeClass('hidden');
+    $btn.attr("count", breaks.length);
+    return;
+  }
 
   var availableSpace = $btn.hasClass('hidden') ? $nav.width() : $nav.width() - $btn.width() - 30;
 
@@ -34,7 +46,7 @@ function updateNav() {
   } else {
 
     // There is space for another item in the nav
-    if(availableSpace > breaks[breaks.length-1]) {
+    while(breaks.length > 0 && availableSpace > breaks[breaks.length-1]) {
 
       // Move the item to the visible list
       $hlinks.children().first().appendTo($vlinks);
