@@ -28,7 +28,7 @@ author:
   edu: "Robotics, Systems and Control MSc ETH"
   location: "Technical University of Munich"
   employer: "Chair of Astrodynamics"
-  uri: # "https://www.asg.ed.tum.de/en/coa/home/"
+  uri: "https://coa.ed.tum.de/"
   email: "jannes.huehnerbein@tum.de"
 
   # Academic websites
@@ -132,9 +132,9 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider: false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id: "G-VWSR7L8W1G"
+    tracking_id: # "G-VWSR7L8W1G"
 
 # Reading Files
 include:
