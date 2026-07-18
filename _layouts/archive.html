@@ -18,6 +18,9 @@ layout: default
   <div class="archive">
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
+      {% if page.coauthors %}
+        <p class="page__meta page__coauthors"><i class="fa fa-fw fa-users" aria-hidden="true"></i> Joint work with {% for coauthor in page.coauthors %}{{ coauthor }}{% if forloop.rindex == 2 %} and {% elsif forloop.last == false %}, {% endif %}{% endfor %}</p>
+      {% endif %}
     {% endunless %}
     {{ content }}
     {% if page.tags[0] %}

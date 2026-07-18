@@ -3,6 +3,7 @@ title: "SimpleSim.jl"
 collection: projects
 date: 2024-11-01
 paper: false
+tags: [Software, Simulation, Control, Julia]
 layout: archive
 permalink: /projects/SimpleSim
 excerpt: 'A minimalist Julia toolbox for modular dynamical systems simulation and for control systems design with support for continuous-time, discrete-time and realistic hybrid systems.'
@@ -10,19 +11,15 @@ header:
     teaser: /projects/2024-simplesim/simplesim-cover.jpg
 ---
 
-## Abstract
+`SimpleSim.jl` is a minimalist Julia package for modular dynamical systems simulation and control systems design that I develop and maintain.
 
-`SimpleSim.jl` is a minimalist Julia package for modular dynamical systems simulation and for control systems design.
-It can simulate continuous-time and discrete-time dynamical systems and supports mixed ("hybrid") systems.
-Timing issues are deconflicted by `SimpleSim.jl` automatically, ensuring precise timing of all systems in the simulation.
-In addition to standard simulations, `SimpleSim.jl` provides a few helpful features such as zero-crossing detection and reproducible random variables.
+## What It Does
 
-`SimpleSim.jl` does not export any types.
-The interface almost solely consists of the function `simulate` and a agreed-upon model structure.
-This super light interface results in most design decisions left up to the user.
-At the same time `SimpleSim.jl` does not compromise on functionality and offers a feature-rich simulation framework.
+`SimpleSim.jl` can simulate continuous-time and discrete-time dynamical systems and supports mixed ("hybrid") systems. Timing issues are deconflicted automatically, ensuring precise timing of all systems in the simulation. Beyond standard simulations, it provides a few helpful features such as zero-crossing detection and reproducible random variables.
 
-Click [here](https://github.com/janneshb/SimpleSim.jl) for the GitHub repository or [here](https://janneshb.github.io/SimpleSim.jl/) for the full documentation.
+## Design Philosophy
+
+`SimpleSim.jl` does not export any types. The interface consists almost solely of the function `simulate` and an agreed-upon model structure. This super-light interface leaves most design decisions up to the user — without compromising on functionality: `SimpleSim.jl` still offers a feature-rich simulation framework.
 
 <!--
 ## Examples
@@ -71,10 +68,16 @@ inverted_pendulum = (
 ### Bouncing Ball
 -->
 
+## Links
+
+- <a href="https://github.com/janneshb/SimpleSim.jl" target="_blank" rel="noopener noreferrer">GitHub repository</a>
+- <a href="https://janneshb.github.io/SimpleSim.jl/" target="_blank" rel="noopener noreferrer">Full documentation</a>
+
 ## Citing
 
 If you used `SimpleSim.jl` in research and you are preparing a publication, please use the following BiBTeX entry:
 
+{% raw %}
 ```
 @software{SimpleSim,
     author = {H{\"u}hnerbein, Jannes},
@@ -85,3 +88,4 @@ If you used `SimpleSim.jl` in research and you are preparing a publication, plea
     month = {04},
 }
 ```
+{% endraw %}
