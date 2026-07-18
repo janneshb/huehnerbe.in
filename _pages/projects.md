@@ -11,6 +11,8 @@ You can also find my articles on <u><a href="{{site.author.googlescholar}}">my G
 
 {% include base_path %}
 
+<div class="project-list">
 {% for post in site.projects reversed %}
 {% include archive-single.html type="list" %}
 {% endfor %}
+</div>

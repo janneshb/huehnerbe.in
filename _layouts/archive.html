@@ -20,5 +20,13 @@ layout: default
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
     {{ content }}
+    {% if page.tags[0] %}
+      <footer class="page__meta">
+        <p class="archive__item-tags">
+          <i class="fa fa-fw fa-tags" aria-hidden="true"></i>
+          {% for tag in page.tags %}<span class="archive__item-tag">{{ tag }}</span>{% endfor %}
+        </p>
+      </footer>
+    {% endif %}
   </div>
 </div>

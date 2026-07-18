@@ -51,3 +51,9 @@
     font-weight: 700;
   }
 }
+
+/* highlight the nav entry of the currently open page */
+.greedy-nav .masthead__menu-item--active a {
+  font-weight: 700;
+  border-bottom: 2px solid $masthead-link-color;
+}
